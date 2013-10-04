@@ -1,0 +1,15 @@
+{
+  "name" : "NodoguroPhP",
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
+  "autoload" : {
+    "psr-0" : {
+      "Controller":"app/controllers",
+      "Model":"app/models",
+      "View":"app/views",
+      "Config":"config",
+      "Core":"core"
+    }
+  }
+}
