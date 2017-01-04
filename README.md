@@ -1,4 +1,6 @@
-1. Directory
+### 1. Directory
+
+```
  /
  |-----app
  |      |----controllers アプリケーションコントローラ
@@ -16,3 +18,4 @@
  |-----composer.json     
  |-----.gitignore
  |-----README
+```
